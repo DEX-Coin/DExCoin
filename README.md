@@ -2,6 +2,7 @@
 Decentralized Exchanged Coin (with masternodes)
 
 What is DExCoin?
+
 DExCoin (DEx) is an advanced, decentralized and secure digital currency. Based on CrowdCoin and Dash, it's an enhanced and constantly developed version, featuring the masternode technology, near-instant and secure payments as well as anonymous transactions. With a fast block time, transactions will usually confirm and be successfully processed very quickly. DEx's blockchain uses the advanced NeoScrypt Proof-of-Work algorithm to secure the network. NeoScrypt is ASIC resistant and ensures a fair and stable return on investment for the miners.
 
 Additional information, wallets, specifications & roadmap:
